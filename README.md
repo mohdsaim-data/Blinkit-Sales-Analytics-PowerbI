@@ -20,7 +20,7 @@ Managing fast-moving consumer goods (FMCG) across different store formats, city 
 * **Category Drivers:** **Fruits & Vegetables** ($0.18M) and **Snack Foods** ($0.18M) led total sales. **Low Fat items** accounted for **$776.3K** (64.6%) of total revenue versus Regular items at **$425.4K** (35.4%).
 
 ## Repository Structure
-* [BlinkIT_Sales_Dashboard](BlinkIT_Sales_Dashboard.pbix): Main Power BI Desktop file containing dynamic DAX measures, data modeling, and interactive canvas components.
+* [Blinkit_Sales_Dashboard](Blinkit_Sales_Dashboard.pbix): Main Power BI Desktop file containing dynamic DAX measures, data modeling, and interactive canvas components.
 * [Blinkit Grocery Data](Blinkit_Grocery_Data.xlsx): Raw retail dataset containing product identifier, store type, location tier, visibility, and transaction records.
 * [Dashboard_Preview](Dashboard_Preview.png): High-resolution preview screenshot of the completed executive dashboard.
 
@@ -31,5 +31,5 @@ Managing fast-moving consumer goods (FMCG) across different store formats, city 
 
 ## How to View & Use
 1. Clone or download this repository to your local machine.
-2. Open [BlinkIT_Sales_Dashboard](BlinkIT_Sales_Dashboard.pbix) using **Power BI Desktop**.
+2. Open [Blinkit_Sales_Dashboard](Blinkit_Sales_Dashboard.pbix) using **Power BI Desktop**.
 3. Use the **Filter Panel** on the left to dynamically segment data by **Outlet Location**, **Outlet Size**, or **Item Type**.
